@@ -1,0 +1,254 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+googleAnalytics = "UA-xxxxxxxx-x"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+theme = "hugo-theme-doors"
+
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Site information
+[params]
+description = ""
+ogimage = "images/cp.jpeg"
+
+# Project section
+[params.projects]
+
+[[params.projects.list]]
+title = "Many more happy returns of the day"
+url = "#"
+description = "Adari Girish Kumar"
+image = "images/cp.jpeg"
+w = "780"
+h = "518"
+
+# Subproject section
+[params.subprojects]
+
+[[params.subprojects.list]]
+title = " Kevin "
+url = "#"
+description = " Girish Annaaaa🙏🏻 You are one of the kindest person I know, though I know you get it from me 😝 Let me start with our college fest days, I guess those were one of the best days, especially the gazebo fries😛 Glad that I chose the best ones 😉 Anyways I always cherish all of our randomn talks about cricket, news, frustrations and what not! On the whole I am glad that you got an amazing person like me as your friend 😂😛 Happy happyy birthday bro 🥳🥳 Have an amazing year ahead 🤩 And get married soon😂 "
+
+image = "images/kevin.jpeg"
+w = "780"
+h = "522"
+
+[[params.subprojects.list]]
+title = "Asha"
+url = "#"
+description = "Hellooo Jr. All set for 1 more amazing b'day😎. You had been one of the most amazing junior, a great friend & one of the best photographer. You have a big heart which welcomes everyone & takes everything very calmly. Keep up ur enthusiasm in learning everything & keep growing more. Wish u all the very best of everything Girish!! Happy b'day🤡 "
+image = "images/asha.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Ashai"
+url = "#"
+description = "Happy Birthday Girish. Keep living in the moment, like you always do. Best of luck for your future endeavors. Keep up your creativity… "
+image = "images/ashai.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Shatakshi"
+url = "#"
+description = "Happy birthday bhaiiii!!!🥳🥳🥳 You're one amazing human on this Earth and I cannot thank the Gods enough for giving me you in my life😍! Being the constant support that you are, you have given me one more person I value and respect in my life❣️ Irrespective of anything and everything that we go through, know that I'll always be by your side.. Always!♥️ You're important to me and will always be, so never doubt that ever! I pray that you get what you're looking for along with loadsss of happiness, prosperity and love🤗🤗 Happy birthday da❣️ Hope to meet you soon🤗🤗 "
+image = "images/shatakshi.jpeg"
+w = "780"
+h = "618"
+
+[[params.subprojects.list]]
+title = "Adithya"
+url = "#"
+description = "From getting the weirdest entry into ur peaceful life with ma laugh 😬(the laugh and fall which u might not forget ur entire life) to finding peace laughing together 😌, we've indeed come a long way man ! Well, starting from  attending classes together, watching movies, to random outings, executing sudden plans, organising fests, playing cricket, to lying on the bed & discussing random things for hours, the list would keep continuing !! To even more craziness, trips & life experiences ❤️✨ Wishing you a, nah wishing us all a great year ahead XD Another year went by without executing any of our (yours actually) plans, hope we get to start them at least soon 🙌Happy bday Nanba 🤘🥳 See ya soon <3"
+image = "images/Adithya.jpeg"
+w = "780"
+h = "618"
+
+[[params.subprojects.list]]
+title = "Saumya"
+url = "#"
+description = "Hi Drama Queen,  Happppyyyy Birthdayyyyy dumb dumb, I know you know why I picked this, agli baar smile karlena properly atleast, but thank you for being so amazing always! *insert seal emoji ;) (continuation kaha pe milega you know, toh go read it when you get time) "
+image = "images/saumya.jpeg"
+w = "780"
+h = "618"
+
+[[params.subprojects.list]]
+title = "Nikhita"
+url = "#"
+description = "Hey Girish, many many happy returns of the day... Congratulations on 2nd locked up birthday and getting closer to your dreams you wanted to live after you turn old😂... Have fun... Go on bike rides only after this pandemic gets over.. take care and have a safe and healthy year. "
+image = "images/nikhita.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Yogita"
+url = "#"
+description = "Janamdin ki subhkamnaye girish I hope your bike stays with you for atleast as long as we are friends 😂 Meet me soon I miss hanging out with you "
+image = "images/yogita.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Vaishali"
+url = "#"
+description = "Happy birthday Girish!! 🥳🎉🎊 You know that you are one of the only few people with whom I share everything about my life. We have had so much fun in College, all the classes, fests, outings, trips! I have enjoyed everything so much! I hope we can do the same again soon. Have a great and amazing year ahead. Always there for you!😊❤️ "
+image = "images/vaishali.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Chaitanya"
+url = "#"
+description = "Happy Birthday da Machan!!! "
+image = "images/chaitanya.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Soumok"
+url = "#"
+description = "Sed do eiusmod tempor incididunt"
+image = "images/soumok.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Karan"
+url = "#"
+description = "Happy Birthday Asuran!!"
+image = "images/karan.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Utkal"
+url = "#"
+description = "Girish == smart + fun + hardworking + nice + event mama Happy_Age ++ God_Bless = 10^10000 "
+image = "images/utkal.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Rahul"
+url = "#"
+description = "From sharing rooms, playing box cricket, watching some random movies, you finishing the project and me wondering what the title is, playing football in the sands of Pondy, randomly texting at night & discussing about mammals and reptiles. We have come a long way and little further to go. To much more craziness & stupidity 🍻 Happy 24🐸 "
+image = "images/rahul.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Soorya"
+url = "#"
+description = "Happy Birthday Girish! To think of how you tolerated all of us in the first year, no one else would have done that xD Stay the same buddy :) "
+image = "images/soorya.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Atheesh"
+url = "#"
+description = "Hey Girish! Happiest returns of the day and have a sexy year ahead. Hoping to meet you soon after all this ends. "
+image = "images/atheesh.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Britto"
+url = "#"
+description = "Hello Girish, Wish you many more Happy returns of the day. Have an awesome year ahead. You are easily the most enthusiastic person I have seen to work on things no matter what it is aligned to. Have this positive vibe sustaining throughout your life and grow big. Have an awesome year ahead, Man ❤️ "
+image = "images/britto.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Janani"
+url = "#"
+description = "Happy birthday girish!!!! Have an amazing year ahead! Thanks for helping me through college, I always had fun interacting with you❤️ Also damn you literally saved my ass in TARP will be eternally grateful 🥺❤️ "
+image = "images/janani.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "OP"
+url = "#"
+description = "Happy b'day girish! You are such an amazing person. Never seen a talented individual like you. Stay the same. Good going. ❤️ "
+image = "images/op.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Gokul"
+url = "#"
+description = "Happy Birthday Girish , Have a great year ahead and wish you all success in life . You are one of the versatile , jovial and enthusiastic person i met in life.  The man who made vibrance a vibrant one in college. Not ran behind marks and percentage but  acquired  hands on experience and nurturing leadership skills from grassroot level .  #vizhag_guy  #design_guy  #docker_guy #Night_owl #wander_lust  #techie_guy #cricket_buff # man_of_satrical_memes #Always_be_the_same #keep_smiling # are_what_ra ...  "
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Suvedaranyan"
+url = "#"
+description = "Happy birthday Girish!! Have a wonderful year ahead. Ignore the fucking idiot at the back. "
+image = "images/suveda.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Katyayani"
+url = "#"
+description = "Many many happy returns of the day Girish.  Stay mad and stay happy 😁. Though words might be short but my best wishes will always be with you. "
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Neha"
+url = "#"
+description = "Happy birthday Girish i know we dont talk very often but still every time we talk we talk for hours and our insane conversation is beyond anyone understanding. And, ayyiiii aayyiiiooo is always gonna be first tamil word which i learnt from u. And, i hope we meet in chennai soon (if corona doesn't kill me) Happy b'day again ... enjoy 🎉🎉❤️❤️🔥🔥 "
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Hema"
+url = "#"
+description = "Many Many Happy Returns of the Day Girish. May you receive all the love and happiness in the world. Hope this 2021 be kind to you. Have a fantastic birthday and a great year ahead!! "
+image = "images/work4.jpg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Varshith"
+url = "#"
+description = "Happy birthday Girish, Wish you more adventures and stories to discuss "
+image = "images/varshith.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Lohith"
+url = "#"
+description = "Maybe u feel this surprise. I wish u Happy birthday brother. U are my 1st bestie have a best year nd best future ahead "
+image = "images/lohith.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Srilakshmi"
+url = "#"
+description = "Hi girish, Wat do I say abt you.. my first impression of u was u were quite reserved and somebody who is confined to a grp of frnds. ...but when u started talking to me...I was kinda shocked ...never expected to So! I am very happy to have a frnd like u who always cared abt others...most well mannered person I met...I wish u all the best for future.. happy birthday girish! "
+image = "images/srilakshmi.jpeg"
+w = "780"
+h = "518"
+
+# Contact section
+[params.contact]
+description = "I would like to hear from you. Please contact me via email or social media."
+twitter = "#"
+facebook = ""
+linkedin = "#"
+github = ""
+email = "#"
