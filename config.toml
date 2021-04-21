@@ -184,7 +184,7 @@ h = "518"
 title = "Gokul"
 url = "#"
 description = "Happy Birthday Girish , Have a great year ahead and wish you all success in life . You are one of the versatile , jovial and enthusiastic person i met in life.  The man who made vibrance a vibrant one in college. Not ran behind marks and percentage but  acquired  hands on experience and nurturing leadership skills from grassroot level .  #vizhag_guy  #design_guy  #docker_guy #Night_owl #wander_lust  #techie_guy #cricket_buff # man_of_satrical_memes #Always_be_the_same #keep_smiling # are_what_ra ...  "
-image = "images/work4.jpg"
+image = "images/1.jpeg"
 w = "780"
 h = "518"
 
@@ -208,7 +208,7 @@ h = "518"
 title = "Neha"
 url = "#"
 description = "Happy birthday Girish i know we dont talk very often but still every time we talk we talk for hours and our insane conversation is beyond anyone understanding. And, ayyiiii aayyiiiooo is always gonna be first tamil word which i learnt from u. And, i hope we meet in chennai soon (if corona doesn't kill me) Happy b'day again ... enjoy 🎉🎉❤️❤️🔥🔥 "
-image = "images/work4.jpg"
+image = "images/2.jpeg"
 w = "780"
 h = "518"
 
@@ -216,7 +216,7 @@ h = "518"
 title = "Hema"
 url = "#"
 description = "Many Many Happy Returns of the Day Girish. May you receive all the love and happiness in the world. Hope this 2021 be kind to you. Have a fantastic birthday and a great year ahead!! "
-image = "images/work4.jpg"
+image = "images/3.jpeg"
 w = "780"
 h = "518"
 
@@ -244,9 +244,35 @@ image = "images/srilakshmi.jpeg"
 w = "780"
 h = "518"
 
+[[params.subprojects.list]]
+title = "Soumok"
+url = "#"
+description = " HBD 
+P.S. This jaffa no 🤦‍ "
+image = "images/soumok.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Hyndavi"
+url = "#"
+description = "Hey dumbo.. Stop making people jealous Himalayan diaries.. It's about time you start getting some action in life so you won't keep swiping right on tinder anymore. BTW when u coming to banglore again bday boy?!"
+image = "images/hyndavi.jpeg"
+w = "780"
+h = "518"
+
+[[params.subprojects.list]]
+title = "Santhosh"
+url = "#"
+description = "Hey girish.. Wish you a very happy birthday man.. 🎂🎉.. Best wishes to reach many more heights.. 🍾 "
+image = "images/4.jpeg"
+w = "780"
+h = "518"
+
 # Contact section
 [params.contact]
-description = "I would like to hear from you. Please contact me via email or social media."
+description = "I would like to hear from you. Please contact me via email or social media.
+Arre call and say thanks ra XD "
 twitter = "#"
 facebook = ""
 linkedin = "#"
