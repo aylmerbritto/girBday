@@ -247,8 +247,7 @@ h = "518"
 [[params.subprojects.list]]
 title = "Soumok"
 url = "#"
-description = " HBD 
-P.S. This jaffa no 🤦‍ "
+description = " HBD P.S. This jaffa no 🤦‍ "
 image = "images/soumok.jpeg"
 w = "780"
 h = "518"
@@ -271,8 +270,7 @@ h = "518"
 
 # Contact section
 [params.contact]
-description = "I would like to hear from you. Please contact me via email or social media.
-Arre call and say thanks ra XD "
+description = "I would like to hear from you. Please contact me via email or social media. Arre call and say thanks ra XD "
 twitter = "#"
 facebook = ""
 linkedin = "#"
